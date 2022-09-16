@@ -1,0 +1,200 @@
+/* .card {
+    font-size: 12px;
+    background-color: #FFFFFF;
+    margin: 24px;
+    box-shadow: 0px 4px 6px #0000003D;
+    padding: 16px;
+    font-family: 'Quicksand', sans-serif;
+  }
+  
+
+  
+  .restof {
+    font-size: 12px;
+    color: #666666;
+  }
+  
+  .ans {
+    font-size: 14px;
+    padding-bottom: 14px;
+  }
+  
+  .locations {
+    display: flex;
+    float: right;
+    color: #666666;
+    font-size: 12px;
+  }
+  
+  .locateimg {
+    width: 15px;
+    height: 15px;
+  }
+  
+  .borderline {
+    border-bottom: 1px solid grey;
+  }
+  
+  .spaning {
+    padding: 0px 15px;
+  }
+  
+  .rightspan {
+    padding-right: 15px;
+  }
+  
+  .detailsbtn {
+    display: flex;
+    width: 168px;
+    height: 28px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2px;
+    box-shadow: 0px 3px 5px #0000003D;
+    background-color: #3FD28B;
+  }
+  
+  .details {
+    font-size: 14px;
+  }
+  
+  .jobicon {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-bottom: 32px;
+  }
+  
+  .jobrole {
+    display: flex;
+    font-size: 16px;
+    color: #222222;;
+  }
+  
+  .loc {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+  } */
+
+  .dettitles {
+    font-size: 20px;
+    padding-top: 0px;
+    margin: 0px;
+  }
+
+  .jobtitle {
+    color: #1F7A54;
+    padding: 0px 15px;
+  }
+
+  .apply {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+  .applybtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 73px;
+    height: 26px;
+    font-size: 14px;
+    border-radius: 2px;
+    box-shadow: 0px 3px 5px #0000003D;
+    background-color: #3FD28B;
+  }
+
+  .carddet {
+    font-size: 12px;
+    background-color: #FFFFFF;
+    margin: 0px 24px;
+    box-shadow: 0px 4px 6px #0000003D;
+    font-family: 'Quicksand', sans-serif;
+  }
+
+  .cardcont {
+    padding-left:16px;
+    padding-right:16px;
+    padding-top:16px;
+    margin: 0px;
+  }
+
+  .process {
+    margin: 0px;
+    padding: 10px 16px;
+    font-size: 15px;
+    height: 40px;
+  }
+
+  .processdet {
+    display: flex;
+    background-color: #DBEFFF;
+  }
+
+  .expand {
+    margin-left: auto;
+    border-left: 1px solid black;
+    width: 24px;
+  }
+
+  .jobprocess {
+    margin: 0px;
+    padding: 17px 16px;
+    font-size: 15px;
+  }
+
+  .jobdet {
+    font-size: 12px;
+    background-color: #FFFFFF;
+    margin: 24px;
+    box-shadow: 0px 4px 6px #0000003D;
+    font-family: 'Quicksand', sans-serif;
+  }
+
+  .jobdesc {
+    padding: 16px
+  }
+
+  .package {
+    margin-top: 0px;
+    font-size: 12px;
+    color: #666666;
+  }
+
+  .ansdesc {
+    font-size: 14px;
+    /* padding-bottom: 16px; */
+    border-bottom: 1px solid black;
+  }
+
+  .ansdescbord {
+    font-size: 14px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid black;
+  }
+  .ansdescborder {
+    font-size: 14px;
+    /* padding-bottom: 16px;
+    margin-bottom: 0px; */
+  }
+  
+  .upload {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    font-size: 14px;
+  }
+
+  .checktitle {
+    font-size: 16px;
+    padding: 10px;
+  }
+  

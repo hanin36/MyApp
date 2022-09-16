@@ -1,0 +1,156 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+* {
+  box-sizing: border-box;
+}
+
+
+nav {
+  display: flex;
+  align-items: center;
+  background-color: #1F2834;
+  height: 57px;
+  padding: 30px 25px;
+  border-bottom: 2px solid #31B9E4;
+  margin-bottom: 35px;
+}
+
+nav > img {
+  height: 40px;
+  margin-right: 7px;
+}
+
+.zeuslg {
+  margin-right: auto;
+  width: 121px;
+}
+
+.profilelg {
+  border-radius: 50%;
+}
+
+
+.card {
+  font-size: 12px;
+  background-color: #FFFFFF;
+  margin: 24px;
+  box-shadow: 0px 4px 6px #0000003D;
+  padding: 16px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.titles {
+  font-size: 20px;
+  color: #1F7A54;
+  padding-top: 0px;
+  margin: 0px;
+}
+
+.restof {
+  font-size: 12px;
+  color: #666666;
+}
+
+.ans {
+  font-size: 14px;
+  padding-bottom: 14px;
+}
+
+.locations {
+  display: flex;
+  float: right;
+  color: #666666;
+  font-size: 12px;
+}
+
+.locateimg {
+  width: 15px;
+  height: 15px;
+}
+
+.borderline {
+  border-bottom: 1px solid grey;
+  /* opacity: 60%; */
+}
+
+.spaning {
+  padding: 0px 15px;
+}
+
+.rightspan {
+  padding-right: 15px;
+}
+
+.detailsbtn {
+  display: flex;
+  width: 168px;
+  height: 28px;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  /* border: 1px solid black; */
+  border-radius: 2px;
+  box-shadow: 0px 3px 5px #0000003D;
+  background-color: #3FD28B;
+}
+
+.details {
+  font-size: 14px;
+}
+
+.jobicon {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  border: 1px solid black;
+  margin-bottom: 32px;
+}
+
+.jobrole {
+  display: flex;
+  font-size: 16px;
+  color: #222222;;
+}
+
+.loc {
+  display: flex;
+  margin: 0px;
+  padding: 0px;
+}
